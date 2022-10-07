@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+- 🔭 I’m a 2nd year student at **GGSIPU,NEW DELHI**
+
+- ⭐ I’m a **MERN Stack Developer**
+
+- 🤝 Besides Web-Development **I'm also exploring Blockchain and DevOps**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-gupta-253092227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-gupta-253092227" height="30" width="40" /></a>
