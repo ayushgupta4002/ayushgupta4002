@@ -3,7 +3,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/Ayush3241" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush3241?logo=twitter&style=for-the-badge" alt="Ayush3241" /></a> </p>
-## 💫 About Me:
+
+## 🌐 Socials:
 
 ⭐ I’m a MERN Stack Developer<br>🤝 Besides Web-Development I'm also exploring Blockchain and DevOps<br>📫 📫 How to reach me **ayush4002gupta@gmail.com** <br>💬 Ask me about web development.<br>
 
