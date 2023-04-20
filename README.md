@@ -23,7 +23,7 @@
 
 <div align="left">
  ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Ayush3241)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://gtce.itsvg.in/api?username=Ayush3241)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 </div>
 
 ###
