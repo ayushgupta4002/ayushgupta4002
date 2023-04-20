@@ -26,21 +26,9 @@
 [![](https://gtce.itsvg.in/api?username=Ayush3241)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayushgupta4002/ayushgupta4002/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
-###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushgupta4002&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://rm.up.railway.app/" width="512px"/>
 
