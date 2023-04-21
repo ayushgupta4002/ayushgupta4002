@@ -27,7 +27,7 @@
 
 <div align="left">
 
-[![](https://gtce.itsvg.in/api?username=Ayush3241)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Ayush3241)]()
 </div>
 
 ## Watch my contributions get eaten by a snake 🐍
