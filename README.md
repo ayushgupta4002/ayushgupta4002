@@ -30,7 +30,7 @@
 [![](https://gtce.itsvg.in/api?username=Ayush3241)]()
 </div>
 
-## Watch my contributions get eaten by a snake 🐍
+## YES I CODE
 ![snake gif](https://github.com/ayushgupta4002/shubhsardana29/blob/output/github-contribution-grid-snake.gif)
 
 
