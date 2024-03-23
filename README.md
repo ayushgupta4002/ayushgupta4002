@@ -6,7 +6,11 @@
 
   ## 🌐 About Me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>:
 
-⭐ I’m a Full Stack Web/App Developer who makes cool projects.My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.I worked as a Full Stack Developer at Mojo Web Technology, where I engineered production-ready Software as a Service (SaaS) projects, harnessing the capabilities of Google, Facebook, and Shopify APIs.
+->> I’m a Full Stack Web and App Developer who makes cool projects.
+->> My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.
+->> I worked as a Full Stack Developer at Mojo Web Technology, where I engineered production-ready Software as a Service (SaaS) projects focused on Facebook, and Shopify Tools.
+->> I had Fun while building <a href = "https://ayush-gupta.vercel.app/" > Ayush Search </a> !
+->> Currently Learning Rust ;)
 <br>
 <br>💬 I have a strong command of Web Development technologies and have built several projects using it. I also like to explore new technologies, and I am currently learning Rust.<br>📫 📫 You can reach me at **ayush4002gupta@gmail.com**
 
