@@ -8,6 +8,8 @@
 
 -> I’m a Full Stack Web and App Developer who makes cool projects.
 <br>
+-> Creater of <a href="https://www.snipit.tech">Snipit.tech</a> (thanks to all the users) .
+<br>
 -> My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.
 <br>
 -> I worked as a Full Stack Developer at Mojo Web Technology, where I engineered production-ready Software as a Service (SaaS) projects focused on Facebook, and Shopify Tools.
