@@ -8,6 +8,8 @@
 
 -> I’m a Full Stack Web and App Developer who makes cool projects.
 <br>
+-> Software Engineering Intern at Lunacal.
+<br>
 -> Creator of <a href="https://www.snipit.tech">Snipit.tech</a> (thanks to all the users) .
 <br>
 -> My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.
