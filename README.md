@@ -10,7 +10,7 @@
 <br>
 -> Software Engineering Intern at Lunacal.
 <br>
--> Creator of <a href="https://www.snipit1.vercel.app">Snipit</a> (thanks to all the users) .
+-> Creator of <a href="https://www.snipit1.vercel.app">Snipit</a> (thanks to all the users) [v2 coming soon] .
 <br>
 -> My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.
 <br>
@@ -18,7 +18,7 @@
 <br>
 -> I had Fun while building <a href = "https://ayush-gupta.vercel.app/" > Ayush Search </a> !
 <br>
--> Currently Learning Rust ;)
+-> Currently Learning Distributed systems ;)
 <br> 📫 You can reach me at **ayush4002gupta@gmail.com**
 
 </div>
