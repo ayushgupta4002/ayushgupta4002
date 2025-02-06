@@ -10,7 +10,7 @@
 <br>
 -> Software Engineering Intern at Lunacal.
 <br>
--> Creator of <a href="https://www.snipit1.vercel.app">Snipit</a> (thanks to all the users) [v2 coming soon] .
+-> Creator of <a href="https://www.snipshelf.in">Snipshelf</a> (thanks to all the users) [v2 now live] .
 <br>
 -> My latest feat was winning <a href="https://www.sih.gov.in/"> Smart India Hackathon '23 <a/>.
 <br>
