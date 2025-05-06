@@ -8,7 +8,7 @@
 
 -> I’m a Full Stack Web and App Developer who makes cool projects.
 <br>
--> Founding Software Engineering Intern @ <a href="https://lunacal.ai/">lunacal.ai</a>
+-> Founding Software Engineer @ <a href="https://lunacal.ai/">lunacal.ai</a>
 <br>
 -> Creator of <a href="https://www.snipshelf.in">Snipshelf</a> [v2 now live] and <a href="https://peerlist.io/ayush_/project/termai">termAi</a> (thanks to all the users).
 <br>
