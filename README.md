@@ -14,7 +14,7 @@
 <br>
 -> Creator of <a href="https://www.github.com/ayushgupta4002/bitboat">BitBoat [Distributed cache system]</a> and <a href="https://www.github.com/ayushgupta4002/echo">Echo [A Terminal based Text Editor] </a>
 <br>
-I write on <a href="https://www.notesbyayush.com">notesbyayush.com</a>
+->I write on <a href="https://www.notesbyayush.com">notesbyayush.com</a>
 <br>
 -> Creator of <a href="https://www.snipshelf.in">Snipshelf [deprecated] </a> and <a href="https://peerlist.io/ayush_/project/termai">termAi</a> (thanks to all the users).
 <br>
